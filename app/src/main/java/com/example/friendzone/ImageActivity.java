@@ -25,6 +25,8 @@ import java.util.List;
 
 public class ImageActivity extends AppCompatActivity implements ImageAdapter.OnItemClickListener {
 
+
+
     private RecyclerView mRecyclerView;
     private ImageAdapter mAdapter;
     private ProgressBar mProgressCircle;
